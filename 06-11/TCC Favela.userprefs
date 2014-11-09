@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Waypoint\AIWaypoints.js">
+    <Files>
+      <File FileName="Assets\Scripts\Waypoint\AIWaypoints.js" Line="27" Column="2" />
+      <File FileName="Assets\Scripts\menu\menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\menu\audio.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\movimentacao.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\rotate.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ControleAnim.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\morte.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\menu\sair.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Waypoint\AIWaypoints.js" Line="14" Column="40" />
+      <File FileName="Assets\Scripts\Waypoint\ProximosWaypoints.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
