@@ -1,0 +1,8 @@
+Instruções de Compilação
+
+- Unity;
+- File;
+- Build Settings;
+- [Defina as opções desejadas]
+- Build;
+- Selecione o local para exportação.
